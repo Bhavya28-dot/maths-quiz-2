@@ -1,0 +1,26 @@
+body{
+    background-image: url("b.jpg")
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid blue;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#send_btn{
+    background-color: blue;
+    color: white;
+}
+
+#no_1, #no_2{
+    color: darkblue;
+}
+
+#send_your_number1, #send_your_number2{
+    color:white;
+}
